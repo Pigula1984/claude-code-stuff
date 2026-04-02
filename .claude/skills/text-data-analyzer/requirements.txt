@@ -1,0 +1,9 @@
+# Python >= 3.14
+pandas
+numpy
+regex
+openpyxl
+rapidfuzz
+chardet
+Unidecode
+xlsxwriter
