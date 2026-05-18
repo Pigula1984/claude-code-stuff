@@ -26,6 +26,10 @@ present a proposal, and — after the user confirms — execute the commits.
 6. After all commits, run `git log --oneline -10` to verify the history looks clean.
 7. Report a summary of all commits made.
 
+## Language
+
+Always write commit messages in **English** — subject line and body — regardless of the language used in the conversation.
+
 ## Commit Message Format
 
 ```
